@@ -72,15 +72,4 @@ div.clear {
   height: 0;
 }
 
-body {
-  background: #111;
-}
-.container {
-  width: 100%;
-  width: 640px;
-  margin: 0 auto;
-  text-align: center;
-  background: #111;
-  height: 100%;
-  padding-bottom: 240px;
-}
+
